@@ -1,6 +1,6 @@
-# FinTrackPro
+# FinTrack
 
-FinTrackPro is a comprehensive Personal Finance Management SaaS application designed to help users manage their finances by tracking expenses, setting budgets, and providing financial advice using AI-driven analytics.
+FinTrack is a comprehensive Personal Finance Management SaaS application designed to help users manage their finances by tracking expenses, setting budgets, and providing financial advice using AI-driven analytics.
 
 ## Features
 
@@ -77,11 +77,11 @@ FinTrackPro is a comprehensive Personal Finance Management SaaS application desi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/goldr0g3r/FinTrackPro.git
+   git clone https://github.com/goldr0g3r/FinTrack.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd FinTrackPro
+   cd FinTrack
    ```
 3. Install dependencies:
    ```bash
@@ -119,7 +119,7 @@ FinTrackPro is a comprehensive Personal Finance Management SaaS application desi
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This ject is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Author
 
