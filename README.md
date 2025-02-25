@@ -1,6 +1,3 @@
-Sure! Here’s a `README.md` file for your GitHub repository:
-
-````markdown
 # FinTrackPro
 
 FinTrackPro is a comprehensive Personal Finance Management SaaS application designed to help users manage their finances by tracking expenses, setting budgets, and providing financial advice using AI-driven analytics.
