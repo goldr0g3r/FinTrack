@@ -79,8 +79,6 @@ FinTrackPro is a comprehensive Personal Finance Management SaaS application desi
    ```bash
    git clone https://github.com/goldr0g3r/FinTrackPro.git
    ```
-````
-
 2. Navigate to the project directory:
    ```bash
    cd FinTrackPro
